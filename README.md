@@ -31,7 +31,9 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 
 ## Works with Mocha
 
--
+- [Protractor](http://www.protractortest.org/#/) - Protractor is an end-to-end test framework for AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
+- [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+- [chai-as-promised](https://www.npmjs.com/package/chai-as-promised) - Chai as Promised extends Chai with a fluent language for asserting facts about promises.
 
 
 ## Miscellaneous
